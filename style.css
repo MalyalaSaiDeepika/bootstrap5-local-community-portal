@@ -1,0 +1,28 @@
+body {
+    overflow-x: hidden;
+}
+
+.hero {
+    background: linear-gradient(to right, #0d6efd, #6610f2);
+    padding: 70px 0;
+    color: white;
+}
+
+.card-img-top {
+    height: 200px;
+    object-fit: cover;
+}
+
+.card {
+    transition: 0.3s;
+}
+
+.card:hover {
+    transform: translateY(-5px);
+}
+
+.media-img {
+    width: 120px;
+    height: 120px;
+    object-fit: cover;
+}
