@@ -110,6 +110,7 @@ This project is fully responsive and works on:
 ---
 
 ## 👨‍💻 Author
+Malyala Sai Deepika
 
 Developed as part of a **Bootstrap 5 frontend learning exercise project**.
 
